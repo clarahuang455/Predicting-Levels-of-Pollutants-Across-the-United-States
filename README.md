@@ -5,7 +5,7 @@
 * [Dataset Information](#dataset-information)
 * [Technologies Used](#technologies-used)
 * [Model](#models)
-* [Findings](#results)
+* [Findings](#findings)
 <!-- * [License](#license) -->
 
 
